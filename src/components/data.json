@@ -1,0 +1,45 @@
+
+[
+  {
+    "name": "citizen Aqua Blue",
+    "brand": "citizen",
+    "description": "stylish automatic watch with silver stanless steel chassis and a perfect aqua blue dials",
+    "price": 350,
+    "imgSrc": "src/images/watch1.png"
+  },
+  {
+    "name": "citizen WW2 Gold",
+    "brand": "citizen",
+    "description": "old style automatic watch with black strap and gold/beige chassis",
+    "price": 450,
+    "imgSrc": "src/images/watch2.jpg"
+  },
+  {
+    "name": "breitling navy Blue",
+    "brand": "breitling",
+    "description": "stylish automatic watch with silver stanless steel chassis with beige and blue accents",
+    "price": 600,
+    "imgSrc": ".src/images/watch3.jpg"
+  },
+  {
+    "name": "breitling fighter",
+    "brand": "breitling",
+    "description": "jet styled watch with radiant orange color and 300m water resistance",
+    "price": 650,
+    "imgSrc": "src/images/watch4.jpg"
+  },
+  {
+    "name": "rolex master",
+    "brand": "rolex",
+    "description": "the iconic watch with black interior and blue accents",
+    "price": 1600,
+    "imgSrc": "src/images/watch5.jpg"
+  },
+  {
+    "name": "mvmt dark blue",
+    "brand": "mvmt",
+    "description": "stylish automatic watch with silver stanless steel chassis with beige and blue accents",
+    "price": 260,
+    "imgSrc": "src/images/watch6.jpg"
+  }
+]
